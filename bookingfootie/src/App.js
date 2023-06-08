@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Booking Footie</h1>
+    <h1 className='text-6xl'>Booking Footie</h1>
   );
 }
 
